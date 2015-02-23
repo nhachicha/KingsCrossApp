@@ -3,10 +3,12 @@
 King's Cross App
 ===============
 
+![King's Cross](./kc1.png) ![King's Cross](./kc2.png)
+
 What is this?
 ------------
 
-This is a sandbox app that allows us to experiment with new API & libraries, the purpose of the app is to show reviewed Point Of Interests, around King's Cross (our new office at The App Business)
+This is a sandbox app that allows us to experiment with new API & libraries, the purpose of the app is to show reviewed Point Of Interests, around King's Cross (our new office at [The App Business](http://theappbusiness.com/))
 
 Build & Install 
 ---------------
