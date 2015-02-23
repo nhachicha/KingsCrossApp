@@ -1,0 +1,5 @@
+<resources>
+    <color name="list_separator">#C0C0C0</color>
+    <color name="tiltedview_title">@android:color/white</color>
+    <color name="tiltedview_description">@android:color/white</color>
+</resources>

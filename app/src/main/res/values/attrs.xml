@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TiltedView">
+        <!-- Drawable to represent the rating. -->
+        <attr name="tv_stars" format="reference" />
+        <!-- The size of the separator between top & bottom content -->
+        <attr name="tv_separatorSize" format="dimension|reference" />
+        <!-- The color for the separator. -->
+        <attr name="tv_separatorColor" format="color|reference" />
+        <!-- The color for title. -->
+        <attr name="tv_titleColor" format="color|reference" />
+        <!-- The size of the title text-->
+        <attr name="tv_titleTextSize" format="dimension|reference"/>
+        <!-- The color for the description. -->
+        <attr name="tv_descriptionColor" format="color|reference" />
+        <!-- The size of the description text-->
+        <attr name="tv_descriptionTextSize" format="dimension|reference"/>
+
+    </declare-styleable>
+
+
+    <declare-styleable name="ForegroundImageView">
+        <attr name="android:foreground"/>
+    </declare-styleable>
+
+
+</resources>

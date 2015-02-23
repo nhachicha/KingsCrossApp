@@ -1,0 +1,28 @@
+<resources>
+    <style name="None">
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.NoActionBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@drawable/content_background</item>
+
+        <item name="tv_stars">@drawable/star</item>
+        <item name="tv_separatorSize">1.5dp</item>
+        <item name="tv_separatorColor">@color/list_separator</item>
+
+        <item name="tv_titleColor">@color/tiltedview_title</item>
+        <item name="tv_descriptionColor">@color/tiltedview_description</item>
+        <item name="tv_titleTextSize">@dimen/tiltedview_title</item>
+        <item name="tv_descriptionTextSize">@dimen/tiltedview_description</item>
+
+
+    </style>
+
+    <style name="Widget.U2020.GalleryImage" parent="None">
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+</resources>
